@@ -31,3 +31,6 @@ If it somehow requires it, I will upload code as well. NVIDIA did say this was a
 
 **Stellar Blade**:
    * DLSS 4, medium settings, shaders compiled, Smooth Motion active, no frame generation: 192.67 FPS average
+
+**Death Stranding**:
+   * DLSS Quality, No Frame Generation, shaders compiled, high settings, Smooth Motion enabled: 147.63 FPS average
