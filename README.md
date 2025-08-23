@@ -1,6 +1,9 @@
 # NVIDIA FPS Analysis
 The NVIDIA app now allows for stats tracking for all things FPS and GPU! One of the biggest features is now tracking what DLSS does in terms of Frame Gen, Super Resolution, and Smooth Motion. Analysis will be run here. Hopefully no code. 
 
+# Specs
+All tests are run on my personal computer, a Ryzen 5 5500 and RTX 4060 with 32 GB of RAM. The 4060 and RAM are overclocked to 2603MHz and 3200MT/s respectively.
+
 # Patch Notes (Version 11.0.5.238)
 
 Paired with a new Geforce Game Ready Driver (581.08) that came with an update to the app, this brings to the table:
@@ -19,3 +22,9 @@ Paired with a new Geforce Game Ready Driver (581.08) that came with an update to
 # Purpose of this Repository
 This is simply personal use, but if it benefits you that's all the better for all of us. I will be playing games, and uploading the output from the NVIDIA app, which will be in a Excel file. I will analyze these data points in addition to listing what settings were in the game at the time, and run it from multiple perspectives.
 If it somehow requires it, I will upload code as well. NVIDIA did say this was a beta feature still.
+
+# Example Findings
+**Marvel Rivals**:
+   * No DLSS, but high settings (**with shaders compiling**): 54.92 FPS Average
+   * DLSS, Frame Gen Auto, high settings, shaders compiled: 115.14 FPS Average
+   * DLSS, Frame Gen Auto, Mid-to-Low textures, shaders compiled, and Smooth Motion active: 236.08 FPS Average
