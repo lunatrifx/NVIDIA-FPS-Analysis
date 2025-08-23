@@ -28,3 +28,6 @@ If it somehow requires it, I will upload code as well. NVIDIA did say this was a
    * No DLSS, but high settings (**with shaders compiling**): 54.92 FPS Average
    * DLSS, Frame Gen Auto, high settings, shaders compiled: 115.14 FPS Average
    * DLSS, Frame Gen Auto, Mid-to-Low textures, shaders compiled, and Smooth Motion active (**overclocks applied**): 236.08 FPS Average
+
+**Stellar Blade**:
+   * DLSS 4, medium settings, shaders compiled, Smooth Motion active, no frame generation: 192.67 FPS average
