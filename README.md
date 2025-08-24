@@ -34,3 +34,16 @@ If it somehow requires it, I will upload code as well. NVIDIA did say this was a
 
 **Death Stranding**:
    * DLSS Quality, No Frame Generation, shaders compiled, high settings, Smooth Motion enabled: 147.63 FPS average
+
+# Candidates for Generated Frames
+<img width="1440" height="809" alt="Screenshot 2025-08-23 at 8 48 10 PM" src="https://github.com/user-attachments/assets/8b5813cd-ad31-4817-90d6-8df8908c66b4" />
+<img width="1440" height="811" alt="Screenshot 2025-08-23 at 8 46 29 PM" src="https://github.com/user-attachments/assets/93354b1f-7bb5-43e4-9294-d6daf634deb3" />
+<img width="1435" height="812" alt="Screenshot 2025-08-23 at 8 41 35 PM" src="https://github.com/user-attachments/assets/f08e0fcd-30de-49d8-8716-47b938c1b9aa" />
+<img width="1440" height="809" alt="Screenshot 2025-08-23 at 8 40 33 PM" src="https://github.com/user-attachments/assets/61d2345a-0b70-4cb6-9196-fc8270a02c06" />
+<img width="1439" height="811" alt="Screenshot 2025-08-23 at 8 34 01 PM" src="https://github.com/user-attachments/assets/fe2bf5c4-cd66-483b-ab37-9cd724c6f285" />
+<img width="1440" height="809" alt="Screenshot 2025-08-23 at 8 33 51 PM" src="https://github.com/user-attachments/assets/1a60718c-bdf2-4d7b-bbc1-b520513f87f7" />
+<img width="1438" height="810" alt="Screenshot 2025-08-23 at 8 33 37 PM" src="https://github.com/user-attachments/assets/a25ecfed-1e9b-47cd-81de-8a1cdcb0596f" />
+<img width="1440" height="810" alt="Screenshot 2025-08-23 at 8 33 25 PM" src="https://github.com/user-attachments/assets/d1b95b58-ddf0-4578-8762-01c31a9cde8e" />
+<img width="1440" height="808" alt="Screenshot 2025-08-23 at 8 00 09 PM" src="https://github.com/user-attachments/assets/403c502e-e6ff-4074-9751-500d59d03c29" />
+
+
