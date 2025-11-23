@@ -28,5 +28,5 @@ Some of these should be self explanatory, such as GPU temp and GPU clock. The hi
      - <img width="827" height="412" alt="Screenshot 2025-11-22 at 9 54 02 PM" src="https://github.com/user-attachments/assets/17ceea8a-be76-4afd-ac14-f37cfb8d818b" />
   
 7) **CPU Utilization vs GPU Utilization:** 0.51
-<img width="1027" height="505" alt="Screenshot 2025-11-22 at 10 08 11 PM" src="https://github.com/user-attachments/assets/b187360c-121b-4d78-bdd5-bfb235bed444" />
-    - This one surprised me a bit. 
+     - <img width="1027" height="505" alt="Screenshot 2025-11-22 at 10 08 11 PM" src="https://github.com/user-attachments/assets/b187360c-121b-4d78-bdd5-bfb235bed444" />
+    - Here we know that there is only a GPU bottleneck present during this gameplay, therefore Low-Medium settings is more than likely to be the maximum settings we can achieve. The GPU is maxed out and the CPU still has more than enough headroom to queue up the next frames and calculate what is happening on the screen if the GPU is not doing that. What surpises me here is how uniform the graph looks - the CPU trends like a polynomial. 
