@@ -4,7 +4,7 @@ The NVIDIA app now allows for stats tracking for all things FPS and GPU! One of 
 # Specs
 All tests are run on my personal computer, a Ryzen 5 5500 and RTX 4060 with 32 GB of RAM. The 4060 and RAM are overclocked to 2603MHz and 3200MT/s respectively.
 
-There is a officially a part two to this repository with the introduction of my RTX 5070! The RAM speed is the same at 3200MT/s, but the RTX 5070 is undervolted to 1.00 V at 2902 MHz. Further tests will be made in an attempt to bring the voltage even lower. 
+There is officially a part two to this repository with the introduction of my RTX 5070! The RAM speed is the same at 3200MT/s, but the RTX 5070 is undervolted to 1.00 V at 2902 MHz. Further tests will be made in an attempt to bring the voltage even lower. 
 
 # Patch Notes (Version 11.0.5.238)
 
